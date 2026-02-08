@@ -18,26 +18,11 @@ A modern, responsive Expense Tracker built with React, Tailwind CSS, and Rechart
 * Font Awesome
 * localStorage(for data persistence)
 
-#Project Structure
-
-src/
-── components/
-  ──  BackgroundDecor.jsx
-  ──  ExpenseForm.jsx
-  ──  ExpenseList.jsx
-  ──  ExpenseChart.jsx
-  ──  Filters.jsx
-  ─── SummaryCards.jsx
-  ──  Header.jsx
-── config/
-  ──categories.js
-── App.js
-
-#Install dependencies
+# Install dependencies
 
 * npm install
   
-#Start the development server
+# Start the development server
 
 * npm start
 
